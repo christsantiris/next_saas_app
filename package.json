@@ -15,7 +15,7 @@
     "stripe:webhooks": "stripe listen --forward-to localhost:3000/api/webhooks/stripe"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.5.3",
+    "@clerk/nextjs": "^5.7.5",
     "@date-fns/tz": "^1.0.1",
     "@hookform/resolvers": "^3.9.0",
     "@neondatabase/serverless": "^0.9.5",
